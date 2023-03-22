@@ -14,6 +14,6 @@ https://replit.com/@tingirifistik/Enough
 
 ```console
 git clone https://github.com/zenchio/smsbomberzenci.git
-cd Enough
+cd smsbomberzenci
 pip3 install -r requirements.txt
 python3 smsbomberzenci.py
