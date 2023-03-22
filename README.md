@@ -16,4 +16,4 @@ https://replit.com/@tingirifistik/Enough
 git clone https://github.com/zenchio/smsbomberzenci.git
 cd Enough
 pip3 install -r requirements.txt
-python3 enough.py
+python3 smsbomberzenci.py
